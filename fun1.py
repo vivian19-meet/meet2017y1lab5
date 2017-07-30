@@ -1,10 +1,10 @@
+##print('*''*''*''*''*''*')
+##print('*''*''*''*''*''*')
+##print('*''*''*''*''*''*')
+##def draw_2d(n.m,charl1):
+##    
 
 
-
-c=0
-for number in range(333,777+1):
-    print(number)
-    c=c+number
-print(c)
-    
+def draw_1d(n, char):
+    print(char * n)
 
